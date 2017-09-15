@@ -1,0 +1,10 @@
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\bin\Release\BibliotecaClase.dll.config
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\bin\Release\BibliotecaClase.dll
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\bin\Release\BibliotecaClase.pdb
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\bin\Release\BibliotecaClase.xml
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\obj\Release\ResolveAssemblyReference.cache
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\obj\Release\BibliotecaClase.Resources.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\obj\Release\BibliotecaClase.vbproj.GenerateResource.Cache
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\obj\Release\BibliotecaClase.dll
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\obj\Release\BibliotecaClase.xml
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\obj\Release\BibliotecaClase.pdb

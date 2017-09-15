@@ -1,0 +1,468 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BE7B7FC4-1B3D-41DC-9EC8-60494068F5EC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Proyecto_Sena_Biblio_Sistem.My.MyApplication</StartupObject>
+    <RootNamespace>Proyecto_Sena_Biblio_Sistem</RootNamespace>
+    <AssemblyName>Proyecto-Sena_Biblio-Sistem</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Proyecto-Sena_Biblio-Sistem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Proyecto-Sena_Biblio-Sistem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Biblio_SystemDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Biblio_SystemDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Biblio_SystemDataSet.vb">
+      <DependentUpon>Biblio_SystemDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\areas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\areas.Designer.vb">
+      <DependentUpon>areas.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\devoluciones.Designer.vb">
+      <DependentUpon>devoluciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\devoluciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\lista de lectores.Designer.vb">
+      <DependentUpon>lista de lectores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\lista de lectores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\lista de libros.Designer.vb">
+      <DependentUpon>lista de libros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\lista de libros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formulario_de_Busqueda\Bucar_ area.Designer.vb">
+      <DependentUpon>Bucar_ area.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formulario_de_Busqueda\Bucar_ area.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formulario_de_Busqueda\buscar_area para _reporte.Designer.vb">
+      <DependentUpon>buscar_area para _reporte.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formulario_de_Busqueda\buscar_area para _reporte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formulario_de_Busqueda\buscar_lector.Designer.vb">
+      <DependentUpon>buscar_lector.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formulario_de_Busqueda\buscar_lector.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formulario_de_Busqueda\Buscar_libro.Designer.vb">
+      <DependentUpon>Buscar_libro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formulario_de_Busqueda\Buscar_libro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FormularioIngreso.Designer.vb">
+      <DependentUpon>FormularioIngreso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormularioIngreso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Libros.Designer.vb">
+      <DependentUpon>Libros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Libros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\MDIParent1.Designer.vb">
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\MDIParent1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Lectores.Designer.vb">
+      <DependentUpon>Lectores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Lectores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formulario_de_Busqueda\devolrver libro.Designer.vb">
+      <DependentUpon>devolrver libro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formulario_de_Busqueda\devolrver libro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formulario_de_Busqueda\Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formulario_de_Busqueda\Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formulario_de_Busqueda\ingresar_lectores.Designer.vb">
+      <DependentUpon>ingresar_lectores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formulario_de_Busqueda\ingresar_lectores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formulario_de_Busqueda\Libros Disponibles.Designer.vb">
+      <DependentUpon>Libros Disponibles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formulario_de_Busqueda\Libros Disponibles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formulario_de_Busqueda\midificar cantidad.Designer.vb">
+      <DependentUpon>midificar cantidad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formulario_de_Busqueda\midificar cantidad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formulario_de_Busqueda\prueva.Designer.vb">
+      <DependentUpon>prueva.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formulario_de_Busqueda\prueva.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Formularios\Prestamos.Designer.vb">
+      <DependentUpon>Prestamos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Prestamos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\CrystalReport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\reporte.Designer.vb">
+      <DependentUpon>reporte.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\reporte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReporteDataSet.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Formularios\areas.resx">
+      <DependentUpon>areas.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\devoluciones.resx">
+      <DependentUpon>devoluciones.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\lista de lectores.resx">
+      <DependentUpon>lista de lectores.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\lista de libros.resx">
+      <DependentUpon>lista de libros.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formulario_de_Busqueda\Bucar_ area.resx">
+      <DependentUpon>Bucar_ area.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formulario_de_Busqueda\buscar_area para _reporte.resx">
+      <DependentUpon>buscar_area para _reporte.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formulario_de_Busqueda\buscar_lector.resx">
+      <DependentUpon>buscar_lector.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formulario_de_Busqueda\Buscar_libro.resx">
+      <DependentUpon>Buscar_libro.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormularioIngreso.resx">
+      <DependentUpon>FormularioIngreso.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Libros.resx">
+      <DependentUpon>Libros.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\MDIParent1.resx">
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Lectores.resx">
+      <DependentUpon>Lectores.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formulario_de_Busqueda\devolrver libro.resx">
+      <DependentUpon>devolrver libro.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formulario_de_Busqueda\Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formulario_de_Busqueda\ingresar_lectores.resx">
+      <DependentUpon>ingresar_lectores.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formulario_de_Busqueda\Libros Disponibles.resx">
+      <DependentUpon>Libros Disponibles.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formulario_de_Busqueda\midificar cantidad.resx">
+      <DependentUpon>midificar cantidad.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formulario_de_Busqueda\prueva.resx">
+      <DependentUpon>prueva.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Prestamos.resx">
+      <DependentUpon>Prestamos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\reporte.resx">
+      <DependentUpon>reporte.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Biblio_SystemDataSet.xsc">
+      <DependentUpon>Biblio_SystemDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Biblio_SystemDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Biblio_SystemDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Biblio_SystemDataSet.xss">
+      <DependentUpon>Biblio_SystemDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BibliotecaClase\BibliotecaClase.vbproj">
+      <Project>{E283C79D-F222-43F5-AD9C-27F3E46E9AAC}</Project>
+      <Name>BibliotecaClase</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Silver.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CP 57_24x24-32.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sign 07_24x24-32.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Camara.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Floppy_24x24-32.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\libros image.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s0307-life.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lazul1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Avanzar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Siguiente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32px-Crystal_Clear_action_loopnone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconoRecoger.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Photoshop2_24x24-32.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sign 16_32x32-32.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Photoshop2_48x48-32.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\burn-badge_32x32-32.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nueva imagen %283%29.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nueva imagen %281%29.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EDITAR.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ELIMINAR1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nueva imagen %284%29.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo Template - Logo_24.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGO FINAL BIBLIIO-SISTEM.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGO FINAL.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Folder 095_32x32-32.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Desktop_32x32-32.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Reportes\ReporteDataSet.xsc">
+      <DependentUpon>ReporteDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\ReporteDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ReporteDataSet.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Reportes\ReporteDataSet.xss">
+      <DependentUpon>ReporteDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\User 08_24x24-32.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

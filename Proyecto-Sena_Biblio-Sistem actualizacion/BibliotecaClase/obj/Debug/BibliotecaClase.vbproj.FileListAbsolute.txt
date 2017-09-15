@@ -1,0 +1,40 @@
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\BibliotecaClase\bin\Debug\BibliotecaClase.dll.config
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\BibliotecaClase\bin\Debug\BibliotecaClase.xml
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\BibliotecaClase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\BibliotecaClase\obj\Debug\BibliotecaClase.Resources.resources
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\BibliotecaClase\obj\Debug\BibliotecaClase.vbproj.GenerateResource.Cache
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\BibliotecaClase\obj\Debug\BibliotecaClase.xml
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\bin\Debug\BibliotecaClase.dll.config
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\bin\Debug\BibliotecaClase.xml
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\obj\Debug\BibliotecaClase.Resources.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\obj\Debug\BibliotecaClase.vbproj.GenerateResource.Cache
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\obj\Debug\BibliotecaClase.xml
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\bin\Debug\BibliotecaClase.dll.config
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\bin\Debug\BibliotecaClase.xml
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\obj\Debug\BibliotecaClase.Resources.resources
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\obj\Debug\BibliotecaClase.vbproj.GenerateResource.Cache
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\obj\Debug\BibliotecaClase.xml
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\obj\Debug\BibliotecaClase.Resources.resources
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\obj\Debug\BibliotecaClase.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\obj\Debug\BibliotecaClase.xml
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\bin\Debug\BibliotecaClase.dll.config
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\bin\Debug\BibliotecaClase.xml
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\BibliotecaClase\obj\Debug\BibliotecaClase.dll

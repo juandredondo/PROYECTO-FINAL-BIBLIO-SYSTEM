@@ -1,0 +1,177 @@
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.exe.config
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.exe
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.pdb
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.xml
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\bin\Debug\BibliotecaClase.dll
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\bin\Debug\BibliotecaClase.pdb
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\bin\Debug\BibliotecaClase.xml
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.FormularioIngreso.resources
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.MDIParent1.resources
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Resources.resources
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.vbproj.GenerateResource.Cache
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.exe
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.xml
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.pdb
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Libros.resources
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Lectores.resources
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Prestamos.resources
+C:\Users\APRENDIZ SENA\Documents\Visual Studio 2008\Projects\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.areas.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.exe.config
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.exe
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.xml
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.pdb
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.exe
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.pdb
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.xml
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\bin\Debug\BibliotecaClase.dll
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\bin\Debug\BibliotecaClase.pdb
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\bin\Debug\BibliotecaClase.xml
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.areas.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.FormularioIngreso.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Libros.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.MDIParent1.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Lectores.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Resources.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Prestamos.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.vbproj.GenerateResource.Cache
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Form1.resources
+F:\Proyecto Sena\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.exe.config
+F:\Proyecto Sena\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.exe
+F:\Proyecto Sena\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.xml
+F:\Proyecto Sena\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.pdb
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.exe.config
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.exe
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.xml
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.pdb
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.exe
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.pdb
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.xml
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\bin\Debug\BibliotecaClase.dll
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\bin\Debug\BibliotecaClase.pdb
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\bin\Debug\BibliotecaClase.xml
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.areas.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.FormularioIngreso.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Libros.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.MDIParent1.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Lectores.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Resources.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Prestamos.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.vbproj.GenerateResource.Cache
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Bucar__area.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.buscar_lector.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Buscar_libro.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.ingresar_lectores.resources
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.exe.config
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.exe
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.xml
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.pdb
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.exe
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.pdb
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.xml
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\bin\Debug\BibliotecaClase.dll
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\bin\Debug\BibliotecaClase.pdb
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\bin\Debug\BibliotecaClase.xml
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.areas.resources
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Bucar__area.resources
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.buscar_lector.resources
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Buscar_libro.resources
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.FormularioIngreso.resources
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Libros.resources
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.MDIParent1.resources
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Lectores.resources
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.ingresar_lectores.resources
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Resources.resources
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Prestamos.resources
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.vbproj.GenerateResource.Cache
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion230320010\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.exe.config
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion230320010\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.exe
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion230320010\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.xml
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion230320010\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.pdb
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion230320010\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.exe
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion230320010\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.pdb
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion230320010\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.xml
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion230320010\Proyecto-Sena_Biblio-Sistem\bin\Debug\BibliotecaClase.dll
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion230320010\Proyecto-Sena_Biblio-Sistem\bin\Debug\BibliotecaClase.pdb
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion230320010\Proyecto-Sena_Biblio-Sistem\bin\Debug\BibliotecaClase.xml
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion230320010\Proyecto-Sena_Biblio-Sistem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion230320010\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.areas.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion230320010\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Bucar__area.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion230320010\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.buscar_lector.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion230320010\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Buscar_libro.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion230320010\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.FormularioIngreso.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion230320010\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Libros.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion230320010\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.MDIParent1.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion230320010\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Lectores.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion230320010\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.ingresar_lectores.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion230320010\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Resources.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion230320010\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Prestamos.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion230320010\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.vbproj.GenerateResource.Cache
+F:\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.exe.config
+F:\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.exe
+F:\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.xml
+F:\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.pdb
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Form1.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.lista_de_libros.resources
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.lista_de_libros.resources
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Form1.resources
+G:\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.exe.config
+G:\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.exe
+G:\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.xml
+G:\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.pdb
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Libros_Disponibles.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.lista_de_lectores.resources
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.lista_de_lectores.resources
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Libros_Disponibles.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.midificar_cantidad.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.reporte.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.buscar_area_para__reporte.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.devoluciones.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.devolrver_libro.resources
+C:\Users\APRENDIZ SENA\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.prueva.resources
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.exe.config
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.exe
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.xml
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.pdb
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.areas.resources
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.devoluciones.resources
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.lista_de_lectores.resources
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.lista_de_libros.resources
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Bucar__area.resources
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.buscar_area_para__reporte.resources
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.buscar_lector.resources
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Buscar_libro.resources
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.FormularioIngreso.resources
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Libros.resources
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.MDIParent1.resources
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Lectores.resources
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.devolrver_libro.resources
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Form1.resources
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.ingresar_lectores.resources
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Libros_Disponibles.resources
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.midificar_cantidad.resources
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.prueva.resources
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Resources.resources
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.Prestamos.resources
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.reporte.resources
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.exe
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.pdb
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.xml
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\bin\Debug\BibliotecaClase.dll
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\bin\Debug\BibliotecaClase.pdb
+C:\Users\USER\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\bin\Debug\BibliotecaClase.xml
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.devoluciones.resources
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.buscar_area_para__reporte.resources
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.devolrver_libro.resources
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.midificar_cantidad.resources
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.prueva.resources
+C:\Users\Biblioteca\Desktop\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto_Sena_Biblio_Sistem.reporte.resources
+G:\PROYECTO FINAL BIBLIO-SYSTEM\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\bin\Debug\Proyecto-Sena_Biblio-Sistem.exe.config
+G:\PROYECTO FINAL BIBLIO-SYSTEM\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.exe
+G:\PROYECTO FINAL BIBLIO-SYSTEM\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.xml
+G:\PROYECTO FINAL BIBLIO-SYSTEM\Proyecto-Sena_Biblio-Sistem actualizacion\Proyecto-Sena_Biblio-Sistem\obj\Debug\Proyecto-Sena_Biblio-Sistem.pdb
